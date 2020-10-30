@@ -1,83 +1,107 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url>
      <loc>https://pvilas.github.io/animal-movements/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-10-30</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://pvilas.github.io/animal-movements/calentar/</loc>
+     <lastmod>2020-10-30</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://pvilas.github.io/animal-movements/calentar/pies/</loc>
+     <lastmod>2020-10-30</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://pvilas.github.io/animal-movements/calentar/rodillas/</loc>
+     <lastmod>2020-10-30</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://pvilas.github.io/animal-movements/calentar/caderas/</loc>
+     <lastmod>2020-10-30</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://pvilas.github.io/animal-movements/calentar/brazos/</loc>
+     <lastmod>2020-10-30</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://pvilas.github.io/animal-movements/calentar/cuello/</loc>
+     <lastmod>2020-10-30</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://pvilas.github.io/animal-movements/ejercicios/chimpance/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-10-30</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://pvilas.github.io/animal-movements/ejercicios/pushup/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-10-30</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://pvilas.github.io/animal-movements/ejercicios/arquero/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-10-30</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://pvilas.github.io/animal-movements/ejercicios/arquero_bajo/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-10-30</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://pvilas.github.io/animal-movements/ejercicios/pushup_pie_adelantado/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-10-30</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://pvilas.github.io/animal-movements/ejercicios/drill_para_lizard/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-10-30</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://pvilas.github.io/animal-movements/ejercicios/high_lizard/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-10-30</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://pvilas.github.io/animal-movements/ejercicios/lizard/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-10-30</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://pvilas.github.io/animal-movements/ejercicios/pushup-un-brazo/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-10-30</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://pvilas.github.io/animal-movements/ejercicios/pushup-combo/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-10-30</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://pvilas.github.io/animal-movements/ejercicios/flexion-hindu/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-10-30</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://pvilas.github.io/animal-movements/ejercicios/la-pica/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-10-30</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://pvilas.github.io/animal-movements/ejercicios/levantamiento/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-10-30</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://pvilas.github.io/animal-movements/plantillas/ejercicio/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-10-30</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://pvilas.github.io/animal-movements/varios/notas/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-10-30</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://pvilas.github.io/animal-movements/varios/recopilacion/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-10-30</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://pvilas.github.io/animal-movements/varios/mkdocs/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-10-30</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://pvilas.github.io/animal-movements/varios/fuentes/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-10-30</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://pvilas.github.io/animal-movements/varios/variables/</loc>
-     <lastmod>2020-10-28</lastmod>
+     <lastmod>2020-10-30</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>
