@@ -1286,17 +1286,29 @@
 <h2 id="acerca-de-este-sitio">Acerca de este sitio</h2>
 <p>Este sitio está creado con <a href="https://squidfunk.github.io/mkdocs-material/">mkdocs-material</a> y hosteado en github pages.</p>
 <p>Para bajar videos de youtube uso <a href="https://youtube-dl.org/">youtube-dl</a>. Por ejemplo,</p>
-<pre><code>youtube-dl -f 18 'www.youtube.com/watch?v=IYFrpMztoxs'
+<pre><code class="language-shell">youtube-dl -f 18 'www.youtube.com/watch?v=IYFrpMztoxs'
 </code></pre>
 <p>Para ver los formatos en los que está disponible el vídeo, usar la opción <code>-F</code>,</p>
-<pre><code>youtube-dl -F 'www.youtube.com/watch?v=IYFrpMztoxs'
+<pre><code class="language-shell">youtube-dl -F 'www.youtube.com/watch?v=IYFrpMztoxs'
 </code></pre>
 <p>Para cortar y reducir el tamaño de los vídeos, uso ffmpeg. Por ejemplo,</p>
-<pre><code>ffmpeg -i basic.mp4 -ss 00:00:30 -to 00:00:40 -vf scale=640:360 clip.mp4
+<pre><code class="language-shell">ffmpeg -i basic.mp4 -ss 00:00:30 -to 00:00:40 -vf scale=640:360 clip.mp4
 </code></pre>
 <p>Corta entre los 30 y 40 segundos del vídeo y, en su caso, lo reduce a 640x360.</p>
 <p>Para reducir cualquier video a 640x360</p>
-<pre><code>ffmpeg -i origen.mp4 -s 640x360 destino.mp4
+<pre><code class="language-shell">ffmpeg -i origen.mp4 -s 640x360 destino.mp4
+</code></pre>
+<p>Para crear los thumbnails de las páginas de índice</p>
+<pre><code class="language-shell">for PHOTO in *.png
+do
+    if [ -e &quot;thumbs/$PHOTO&quot; ]
+    then
+        echo &quot;$PHOTO ya existe&quot;
+    else
+        echo &quot;convirtiendo $PHOTO ...&quot;
+        convert &quot;$PHOTO[200x&gt;]&quot; &quot;thumbs/$PHOTO&quot;
+    fi
+done
 </code></pre>
 <h2 id="cookies">Cookies</h2>
 <p>Este sitio web usa las siguientes cookies de terceros:</p>
